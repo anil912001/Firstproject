@@ -1,15 +1,3 @@
-//commit 1
-
-// commit 3
-
-//commit 4
-
-//commit 5
-
-//new_feature
-
-//new_feature_sub_feature
-
 //updated master
 
 /// changes done to master
