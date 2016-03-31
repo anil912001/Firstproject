@@ -1,7 +1,5 @@
 //updated master
 
-<<<<<<< HEAD
-// this line is original in master --> updating master 
-=======
+
 // this line is original in master --> updating master --> updating this in conflict test branch
->>>>>>> confict_test_branch
+
